@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/addrow.png</file>
+        <file>images/author.png</file>
+        <file>images/close.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/eng.png</file>
+        <file>images/exit.png</file>
+        <file>images/find.png</file>
+        <file>images/grapf.png</file>
+        <file>images/new.png</file>
+        <file>images/newwindow.png</file>
+        <file>images/office.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/print.png</file>
+        <file>images/rmrow.png</file>
+        <file>images/row_delete.png</file>
+        <file>images/rus.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/sort.png</file>
+        <file>images/icon.png</file>
+    </qresource>
+</RCC>
